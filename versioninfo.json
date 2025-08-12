@@ -1,0 +1,24 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        }
+    },
+    "StringFileInfo": {
+        "CompanyName": "Keryn Suoress",
+        "FileDescription": "Year of Synchronicity Countdown",
+        "ProductName": "Year Countdown",
+        "ProductVersion": "1.0.0",
+        "LegalCopyright": "Copyright 2025 Keryn Suoress"
+    },
+    "IconPath": "Icon.ico"
+}

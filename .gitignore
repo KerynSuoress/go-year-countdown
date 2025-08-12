@@ -1,0 +1,6 @@
+*.exe
+*.syso
+
+go.work
+
+
