@@ -3,7 +3,7 @@
 A Go-based desktop countdown timer that displays time remaining until the end of the year.
 
 ## Features
-- Real-time countdown (months, weeks, days, hours, minutes)
+- Real-time countdown (months, weeks, days, hours)
 - Custom rounded cards with navy blue theme
 
 ## Requirements
