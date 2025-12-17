@@ -99,7 +99,7 @@ func calculateTimeRemaining() (int, int, int, int) {
 	totalDays := int(duration.Hours() / 24)
 
 	monthLeft := 12 - int(now.Month())
-	weekLeft := (totalDays / 7) - int(now.Weekday())
+	weekLeft := totalDays / 7
 	dayLeft := totalDays
 	hourLeft := totalHours
 
